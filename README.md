@@ -32,3 +32,7 @@ func main() {
 	color.Yellow("I want a cup of coffee!")
 }
 ```
+
+## Variables
+
+##
