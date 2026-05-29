@@ -4,7 +4,6 @@
 
 [Udemy course](https://www.udemy.com/course/go-golang-complete-guide/?couponCode=PMNVD3025)
 
-
 ## Installing Go
 
 ## Basics
@@ -35,4 +34,4 @@ func main() {
 
 ## Variables
 
-##
+## Functions
