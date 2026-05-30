@@ -37,3 +37,7 @@ func main() {
 ## Functions
 
 ## Pointers
+
+## Arrays
+
+## Conditionals
