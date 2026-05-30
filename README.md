@@ -23,3 +23,5 @@
 ## Maps
 
 ## Structs
+
+## Interfaces
