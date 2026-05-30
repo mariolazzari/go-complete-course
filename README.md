@@ -41,3 +41,5 @@ func main() {
 ## Arrays
 
 ## Conditionals
+
+## Maps
